@@ -87,7 +87,7 @@ Please follow the instructions in the installation article matching your platfor
 
 ### Getting installation info
 
-For many actions you need to know the pathes where openHAB checks for files, or where you need to install additional packages.
+For many actions you need to know the paths where openHAB checks for files, or where you need to install additional packages.
 To find out where these locations are, e.g. where `$OPENHAB_CONF` points to, use the [console](https://www.openhab.org/docs/administration/console.html):
 
 ```shell
